@@ -805,8 +805,7 @@ body {
 }
 .asked__svg {
   stroke: #5267df;
-  top: 0;
-  right: 0;
+  margin-right: 19px;
 }
 .asked__summary:hover {
   color: #fa5959;
@@ -881,6 +880,8 @@ body {
 }
 
 .stay__mini {
+  margin: 0;
+  margin-bottom: 24px;
   font-family: "Rubik";
   font-style: normal;
   font-weight: 500;
@@ -888,7 +889,6 @@ body {
   line-height: 40px;
   text-align: center;
   letter-spacing: 5px;
-
   color: #ffffff;
 }
 .stay__big-tekst {
